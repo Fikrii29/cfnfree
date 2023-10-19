@@ -50,7 +50,7 @@ echo -e "${NC}${GREEN}Permission Accepted...${NC}"
 else
 echo -e "${NC}${RED}Permission Denied!${NC}";
 echo -e "${NC}${LIGHT}Please Contact Admin!!"
-echo -e "${NC}${LIGHT}Telegram : https://t.me/liz_mine"
+echo -e "${NC}${LIGHT}Telegram : @FikriiSky"
 exit 0
 fi
 clear
@@ -148,7 +148,7 @@ echo "   - Full Orders For Various Services" | tee -a log-install.txt
 echo "   - White Label" | tee -a log-install.txt
 echo "   - Installation Log --> /root/log-install.txt"  | tee -a log-install.txt
 echo ""  | tee -a log-install.txt
-echo "---------------------- Script Mod By LIZ ----------------------" | tee -a log-install.txt
+echo "---------------------- Script Mod By FIKRII ----------------------" | tee -a log-install.txt
 echo ""
 echo " Reboot 15 Sec"
 sleep 15
